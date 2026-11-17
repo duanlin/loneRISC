@@ -1,4 +1,5 @@
 Lonelyx is a RISC instruction set architecture<br/>
+also called lonely-RISC
 <br/>
 It supports：<br/>
 instruction pipeline with configurable levels<br/>
