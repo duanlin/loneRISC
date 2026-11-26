@@ -4,13 +4,13 @@ It also called lonely-RISC<br/>
 It supports：<br/>
 32bits or 32/64bits mode implementation<br/>
 instruction pipeline with configurable levels<br/>
-in-order or out-of-order execution<br/>
+in-order or out-of-order execution implementation<br/>
 float-point extension and vectorized extension<br/>
 SIMD instructions with 2-16 parallel operations<br/>
 implementation defined extensible instructions<br/>
 clusters of cores up to 256 * 64K in max<br/>
 up to 3 levels coherency cache structure<br/>
-optional tightly coupled memory<br/>
+optional tightly coupled memory support<br/>
 built-in cluster and system spinlock<br/>
 optional MPU with protected memory space<br/>
 optional APU with virtual memory translation<br/>
