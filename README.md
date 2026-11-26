@@ -2,7 +2,7 @@ Lonelyx is a RISC instruction set architecture<br/>
 It also called lonely-RISC<br/>
 <br/>
 It supports：<br/>
-32bits mode or 64/32bits mode implementation<br/>
+32bits mode or 32/64bits mode implementation<br/>
 instruction pipeline with configurable levels<br/>
 in-order or out-of-order execution<br/>
 float-point extension and vectorized extension<br/>
