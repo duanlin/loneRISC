@@ -1,4 +1,4 @@
-Lonelyx is a RISC instruction set architecture<br/>
+Lonerisc is a RISC instruction set architecture<br/>
 It also called lonely-RISC<br/>
 <br/>
 It supports：<br/>
