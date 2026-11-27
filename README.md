@@ -1,4 +1,4 @@
-Lonerisc is a RISC instruction set architecture<br/>
+LoneRISC is a RISC instruction set architecture<br/>
 It also called lonely-RISC<br/>
 <br/>
 It supports：<br/>
